@@ -1,0 +1,17 @@
+Alpha
+
+1.0: Raised the img up so that 2/5 of the page is now the top
+Example:  ____________
+         |            |
+         |            | <----- Image was cut here
+         |            |
+         |            |
+         --------------
+          ____________   
+         |            | <----- Image raised to here
+         |            |
+         |            |
+         |            |
+         --------------
+
+Next patch: Add nav/transform bar to move to other pages
